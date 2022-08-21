@@ -2,7 +2,7 @@
 管理babel插件的monorepo
 
 ## packages
-- [@nk/babel-insert-arguments](./packages/babel-insert-arguments/README.md): 调试信息里增加文件的行和列显示
+- [@nk/babel-insert-arguments](./packages/babel-insert-arguments): 调试信息里增加文件的行和列显示
 
 ## 注意事项
 
