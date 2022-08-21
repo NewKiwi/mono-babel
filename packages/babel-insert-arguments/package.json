@@ -1,0 +1,23 @@
+{
+  "name": "@nk/babel-insert-arguments",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc",
+    "debug": "node ./dist/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/parser": "^7.18.11",
+    "@babel/traverse": "^7.18.11",
+    "execa": "^6.1.0",
+    "typescript": "^4.7.4"
+  },
+  "dependencies": {
+    "@babel/generator": "^7.18.12"
+  }
+}
